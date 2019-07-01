@@ -1,3 +1,11 @@
+# ITLogger
+ITLogger is a React app to track IT department tasks and issues.  
+  
+It was built with React and Redux and uses JSON-Server as a mock backend.  
+It's part of the course [Modern React Front to Back](https://www.udemy.com/modern-react-front-to-back)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
