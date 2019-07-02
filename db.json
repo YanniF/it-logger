@@ -8,18 +8,18 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 032",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-07-02T01:01:25.676Z",
-      "id": 2
-    },
-    {
       "message": "Computer 001 exploded",
       "attention": true,
       "tech": "Sara Wilson",
       "date": "2019-07-02T01:02:03.361Z",
       "id": 3
+    },
+    {
+      "message": "Restarted computer 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-07-02T01:54:30.803Z",
+      "id": 4
     }
   ],
   "techs": [
